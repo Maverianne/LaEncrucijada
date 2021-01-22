@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/01Intro.unity
+    guid: 6a8881a78da8cf94f80e5ad4c65c9319
+  - enabled: 1
+    path: Assets/Scenes/Day1Platform.unity
+    guid: eb1842d867efa1f45aca2eaf81af1d14
+  - enabled: 1
+    path: Assets/Scenes/Day2Platform.unity
+    guid: 04aa0d1c75e444141be31277eb1f8dda
+  - enabled: 1
+    path: Assets/Scenes/Day2Shopping.unity
+    guid: 92473a496838dec49b2419c745ee46e5
+  - enabled: 1
+    path: Assets/Scenes/Day3Platform.unity
+    guid: 3046ec516e6e4a74f937c35dd3b9728c
+  - enabled: 1
+    path: Assets/Scenes/Day3Shopping.unity
+    guid: 3648799c38b1c7b4faaa9b1180a3f974
+  - enabled: 1
+    path: Assets/Scenes/Day4Platform.unity
+    guid: e2d3eaba8aa558445a37c77022d06185
+  - enabled: 1
+    path: Assets/Scenes/Day4Shopping.unity
+    guid: 750fc9f79e71a8b438869dd593c9e282
+  - enabled: 1
+    path: Assets/Scenes/Decisions/BuyFairy/A1_Day5Platform.unity
+    guid: b0c4e4054257761469279b8416269b4a
+  - enabled: 1
+    path: Assets/Scenes/Decisions/BuyFairy/A1_Day5Shopping.unity
+    guid: 0893d345bf5a74b40b24b3046fc1650a
+  - enabled: 1
+    path: Assets/Scenes/Decisions/BuyFairy/Capture/B2_Day6Platform.unity
+    guid: 7c0fdffae7299004da5c2098f8d04629
+  - enabled: 1
+    path: Assets/Scenes/Decisions/BuyFairy/Capture/B2_Day6Shopping.unity
+    guid: 99f971623e90e4c45a5adeb71469fd0f
+  - enabled: 1
+    path: Assets/Scenes/Decisions/BuyFairy/Capture/B2_Day7Platform.unity
+    guid: 0c82bb3b2ff9b4a429a34187b8669b4c
+  - enabled: 1
+    path: Assets/Scenes/Decisions/BuyFairy/Capture/B2_Day7Shopping.unity
+    guid: fd57638aead6b974b8199e5433caf38f
+  - enabled: 1
+    path: Assets/Scenes/Decisions/BuyFairy/LetGo/B1_Day6PlatformNimph.unity
+    guid: 446080deada7f214ba2caacbb4365ae4
+  - enabled: 1
+    path: Assets/Scenes/Decisions/BuyFairy/LetGo/HelpNimph/BossFight1.unity
+    guid: 298c9bbde8891fb4db765dc6fc2c6a2a
+  - enabled: 1
+    path: Assets/Scenes/Decisions/BuyFairy/LetGo/DontHelp/C2_Day6Shopping.unity
+    guid: 3205cff245ca20547853fc33307d83a5
+  - enabled: 1
+    path: Assets/Scenes/Decisions/BuyFairy/LetGo/DontHelp/C2_Day7Platform.unity
+    guid: 3b8d6518ce7f49449a22102fa7c05402
+  - enabled: 1
+    path: Assets/Scenes/Decisions/BuyFairy/LetGo/DontHelp/C2_Day7Shopping.unity
+    guid: 364ad1eaa446b1e4d89da1aef80ecd28
+  - enabled: 1
+    path: Assets/Scenes/Decisions/KeepFairy/A2_Day5PlatformWitch.unity
+    guid: 0842c6dfba7e2d44da97a9da4f5b09bd
+  - enabled: 1
+    path: Assets/Scenes/Decisions/KeepFairy/KeepRep/D2_Day5ShoppingWitchB.unity
+    guid: 9e8e3b8f2b0e47149bec6a76b0b90aae
+  - enabled: 1
+    path: Assets/Scenes/Decisions/KeepFairy/KeepRep/D2_Day6Platform.unity
+    guid: 466295aae9f40044f8e0c3a1532ce01e
+  - enabled: 1
+    path: Assets/Scenes/Decisions/KeepFairy/KeepRep/D2_Day6ShoppingWitch.unity
+    guid: 75a8f05777c01f64aad6438608a8a092
+  - enabled: 1
+    path: Assets/Scenes/Decisions/KeepFairy/KeepRep/D2_Day7Platform.unity
+    guid: dc93ee53cfcfd8940ac0327c3844c183
+  - enabled: 1
+    path: Assets/Scenes/Decisions/KeepFairy/KeepRep/D2_Day7ShoppingWitchB.unity
+    guid: 2c776606c93ae694f9fa758102e7a88f
+  - enabled: 1
+    path: Assets/Scenes/Decisions/KeepFairy/RemoveRep/D1_Day5ShoppingWitch.unity
+    guid: 5f7000695958f774fbe671f8c07a9f73
+  - enabled: 1
+    path: Assets/Scenes/Decisions/KeepFairy/RemoveRep/D1_Day6PlatformNimphFairy.unity
+    guid: f448067a5f5434846a74abfc7c627ac4
+  - enabled: 1
+    path: Assets/Scenes/Decisions/KeepFairy/RemoveRep/DontHelp/E2_Day6ShoppingFairy.unity
+    guid: 43f7ca4426e70e447a07a051deef5690
+  - enabled: 1
+    path: Assets/Scenes/Decisions/KeepFairy/RemoveRep/DontHelp/E2_Day7PlatformFairy.unity
+    guid: 2ba1822b065f2524b9c4e5d66728842a
+  - enabled: 1
+    path: Assets/Scenes/Decisions/KeepFairy/RemoveRep/DontHelp/E2_Day7ShoppingFairy.unity
+    guid: 750a30c42063cfa40bde288943961202
+  - enabled: 1
+    path: Assets/Scenes/Decisions/BuyFairy/Capture/BossFight2.unity
+    guid: fe98641dbfc76b6438e3b87eb69a3806
+  - enabled: 1
+    path: Assets/Scenes/Decisions/BuyFairy/LetGo/DontHelp/BossFight3.unity
+    guid: 74ca54e0a64395241bf01d237847fea1
+  - enabled: 1
+    path: Assets/Scenes/Decisions/KeepFairy/KeepRep/BossFight4.unity
+    guid: 2b32b879fe6b25244a93a43abbeaaf6e
+  - enabled: 1
+    path: Assets/Scenes/Decisions/KeepFairy/RemoveRep/DontHelp/BossFight5.unity
+    guid: f250478be32bdc54eabcc21a2f2f2674
+  - enabled: 1
+    path: Assets/Scenes/Decisions/KeepFairy/RemoveRep/HelpNimph/BossFight6.unity
+    guid: 0350e686c68014a43942a823f88160c6
+  m_configObjects: {}
